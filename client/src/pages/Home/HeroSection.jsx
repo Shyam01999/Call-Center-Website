@@ -1,10 +1,10 @@
-import React from 'react'
+import React from "react";
 
 function HeroSection() {
   return (
     <>
-    {/* hero section start */}
-    {/* <section className={`section-hero ${theme == "light" ? "light" : "dark"}`}>
+      {/* hero section start */}
+      {/* <section className={`section-hero ${theme == "light" ? "light" : "dark"}`}>
         <div className={`container hero-container ${theme == "dark" && "dark"}`}>
                     <h1 className='hero-heading'>Revolutionize Your Workforce with <span className={`common-heading ${theme == "dark" && "dark"}`}>Vliv</span></h1>
                     <h2 className='hero-subheading'>Simplify, Automate, Empower</h2>
@@ -16,9 +16,9 @@ function HeroSection() {
                     </div>
         </div>               
     </section> */}
-            {/* hero section end */}
-            </>
-  )
+      {/* hero section end */}
+    </>
+  );
 }
 
-export default HeroSection
+export default HeroSection;
